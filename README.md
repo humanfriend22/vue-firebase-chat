@@ -6,7 +6,7 @@
 [React Firebase Chat]: https://youtu.be/zQyrwxMPm88/
 [Firebase Setup Guide]: FIREBASE.md
 
-[Production Build]: https://vue-firebase-chat-1fd28.web.app/
+[Production Build]: https://vue-firebase-chat-b32b6.web.app/
 
 A simple chat app built with [VueJS] and [Firebase] inspired by [Fireship]'s [React Firebase Chat]().
 
