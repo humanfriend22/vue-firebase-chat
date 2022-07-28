@@ -4,6 +4,7 @@
 [Firebase]: https://firebase.google.com/
 [Fireship]: https://fireship.io/
 [React Firebase Chat]: https://youtu.be/zQyrwxMPm88/
+[Firebase Setup Guide]: FIREBASE.md
 
 [Production Build]: https://vue-firebase-chat-1fd28.web.app/
 
