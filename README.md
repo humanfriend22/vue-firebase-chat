@@ -8,7 +8,7 @@
 
 [Production Build]: https://vue-firebase-chat-b32b6.web.app/
 
-A simple chat app built with [VueJS] and [Firebase] inspired by [Fireship]'s [React Firebase Chat]().
+A simple chat app built with [VueJS] and [Firebase] inspired by [Fireship]'s [React Firebase Chat].
 
 You can check out the application right here: [Production Build]
 
